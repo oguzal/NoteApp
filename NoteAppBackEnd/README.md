@@ -23,6 +23,6 @@ This project is created on a Windows machine but the steps to run it locally sho
 1. run ```npm i```
 1. run ```npm start```
 1. If you see an Error message containing "Cannot find module ... \app\" run the project in Visual Studio 
-1. Verify the GET endpoint :  http://localhost:3000/notes ,  this should give the existing Notes from the database , in the initial load it will be blank screen.
+1. Verify the GET endpoint :  http://localhost:1337/notes ,  this should give the existing Notes from the database , in the initial load it will be blank screen.
 
 
