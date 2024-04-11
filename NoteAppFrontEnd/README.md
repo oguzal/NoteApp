@@ -4,7 +4,9 @@ It also allows searching notes.
 It uses [Material React Table](https://www.material-react-table.com/)  + React + TypeScript + Vite
 
 ## To run
+
 1.Run ```npm install``` 
+
 2.Run ```npm run dev``` and verify the application  is loading on the provided url e.g. http://localhost:5178/
 
 
