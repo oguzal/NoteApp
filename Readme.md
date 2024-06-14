@@ -1,6 +1,9 @@
 # Simple Note Application
 
 This application allows users to easily manage their notes through  indexing, creation, update, and deletion functionalities.
+![Create new note](create_new_note.png)
+ 
+![Notes](grid.png)
 
 ### Modular Design
 
@@ -15,3 +18,5 @@ Provides the user interface for interacting with the backend.
 
 <b>Each project has its own dedicated README file that outlines specific instructions for setup and execution.
 Please refer to the respective README files for detailed guidance and start with the Backend Project first</b>
+
+ 

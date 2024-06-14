@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1F59775A-65FE-4A67-9F59-6E3D817C9EFF}"
 	ProjectSection(SolutionItems) = preProject
+		create_new_note.png = create_new_note.png
+		grid.png = grid.png
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
